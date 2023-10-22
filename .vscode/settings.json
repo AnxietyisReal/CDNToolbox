@@ -3,5 +3,9 @@
   "python.autoComplete.extraPaths": [
     ".venv/lib/python3.11/site-packages",
     ".venv/lib64/python3.11/site-packages"
+  ],
+  "python.analysis.extraPaths": [
+    ".venv/lib/python3.11/site-packages",
+    ".venv/lib64/python3.11/site-packages"
   ]
 }
