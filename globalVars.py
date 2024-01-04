@@ -15,5 +15,5 @@ conn = boto.connect_s3(
 
 domain = 'https://cdn.toast-server.net/'
 bucket = conn.get_bucket('cdn.toast-server.net')
-filename = ''
-obj_filename = ''
+filename = 'url in local'
+obj_filename = 'url in bucket'
